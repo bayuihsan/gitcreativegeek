@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif; 
 }
-body{
+#header{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,8 @@ body{
     align-items: center;
     overflow: hidden;
     transition: 0.5s ease-in-out;
-}  
+} 
+
 .container .card:hover .imgBx{
     width: 150px;
     height: 150px;
@@ -90,7 +91,65 @@ body{
     text-decoration: none;
     color: #fff;
 }
+#load{
+    padding: 0;
+    margin: 0;
+    background: #34495e;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loading{   
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border-top: 10px solid #e74c3c;
+    position: relative;
+    animation: a1 2s linear infinite;
+}
+.loading::before, .loading:after{
+    content: '';
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: -10px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.loading::before{
+    border-top: 10px solid #ffa500;
+    transform: rotate(120deg);
+}
+.loading::after{
+    border-top: 10px solid #3498db;
+    transform: rotate(240deg);
+}
+.loading span{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+    animation: a2 2s linear infinite;
+}
 
+@keyframes a1{
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes a2{
+    to{
+        transform: rotate(-360deg);
+    }
+}
 
 @media (max-width: 992px){
     .container{
