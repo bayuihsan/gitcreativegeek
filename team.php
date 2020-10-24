@@ -29,13 +29,9 @@
 
 </head>
 <body>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W34PQR3"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="nav work">
     <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.php" class="link-block-4 head w-inline-block">
-      <div class="div-block-5"><img src="digital/images/Layer-2.svg" alt="" class="image-3 brand"></div>
+      <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brand"></div>
     </a>
     <div data-w-id="dbd3a792-5e7e-07c8-0bf6-ac1483f87865" style="-webkit-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-wrapper">
       <!-- <a href="about-us.html" class="link-block w-inline-block">
@@ -48,14 +44,14 @@
         <div class="menu-item-text second">HOME</div>
         <div data-w-id="46db1472-211e-37f9-c2af-4e4201af41d8" class="block-reveal"></div>
       </a>
-      <a href="#" aria-current="page" class="link-block w-inline-block w--current">
-        <div class="menu-item-text">tEAM</div>
-        <div class="menu-item-text second">TEAM</div>
+      <a href="getintouch.php" class="link-block w-inline-block">
+        <div class="menu-item-text">DESIGNER</div>
+        <div class="menu-item-text second">DESIGNER</div>
         <div data-w-id="6b00aeb9-ebab-7cf4-8b0a-c93a891337b7" class="block-reveal"></div>
       </a>
       <a href="getintouch.php" class="link-block w-inline-block">
-        <div class="menu-item-text">tALK</div>
-        <div class="menu-item-text second">TALK</div>
+        <div class="menu-item-text">DEVELOPER</div>
+        <div class="menu-item-text second">DEVELOPER</div>
         <div data-w-id="1531ceea-0895-39a1-dcc8-20f4ece4ceb3" class="block-reveal"></div>
       </a>
     </div>
@@ -140,7 +136,7 @@
     <div class="container footer">
       <div class="magnus">
         <a href="index.php" class="link-block-4 foot w-inline-block">
-          <div class="div-block-5"><img src="digital/images/Layer-2.svg" alt="" class="image-3 brandfooter"></div>
+          <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brandfooter"></div>
         </a>
         <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
       </div>

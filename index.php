@@ -55,7 +55,7 @@
         <div class="menu-item-text second">work</div>
         <div data-w-id="46db1472-211e-37f9-c2af-4e4201af41d8" class="block-reveal"></div>
       </a> -->
-      <a href="team.html" class="link-block w-inline-block">
+      <a href="getintouch.php" class="link-block w-inline-block">
         <div class="menu-item-text">DESIGNER</div>
         <div class="menu-item-text second">DESIGNER</div>
         <div data-w-id="6b00aeb9-ebab-7cf4-8b0a-c93a891337b7" class="block-reveal"></div>
