@@ -86,11 +86,11 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   <div class="nav work">
-    <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.html" class="link-block-4 head w-inline-block">
+    <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.php" class="link-block-4 head w-inline-block">
       <div class="div-block-5"><img src="images/Layer-2.svg" alt="" class="image-3 brand"></div>
     </a>
     <div data-w-id="dbd3a792-5e7e-07c8-0bf6-ac1483f87865" style="-webkit-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-wrapper">
-      <!-- <a href="index.html" class="link-block w-inline-block">
+      <!-- <a href="index.php" class="link-block w-inline-block">
         <div class="menu-item-text">ABOUT</div>
         <div class="menu-item-text second">ABOUT</div>
         <div data-w-id="651f9e91-4c02-7417-d523-7887b90ed676" class="block-reveal"></div>
@@ -100,7 +100,7 @@
         <div class="menu-item-text second">work</div>
         <div data-w-id="46db1472-211e-37f9-c2af-4e4201af41d8" class="block-reveal"></div>
       </a>-->
-      <a href="index.html" class="link-block w-inline-block">
+      <a href="index.php" class="link-block w-inline-block">
         <div class="menu-item-text">HOME</div>
         <div class="menu-item-text second">HOME</div>
         <div data-w-id="6b00aeb9-ebab-7cf4-8b0a-c93a891337b7" class="block-reveal"></div>
@@ -191,7 +191,7 @@
   <div class="footer work">
     <div class="container footer">
       <div class="magnus">
-        <a href="index.html" class="link-block-4 foot w-inline-block">
+        <a href="index.php" class="link-block-4 foot w-inline-block">
           <div class="div-block-5"><img src="images/Layer-2.svg" alt="" class="image-3 brandfooter"></div>
         </a>
         <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
