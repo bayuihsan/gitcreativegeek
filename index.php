@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,32 +29,32 @@
     </header>
 
     <!-- Navigation -->
-<nav id="header-main" class="navbar navbar-custom" role="navigation">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                <i class="fa fa-bars"></i>
-            </button>
-            <a class="navbar-brand page-scroll" href="" onclick="ga('send', 'event', 'Header', 'click', 'Logo');">
-                <img class="hidden-xs" src="assets/img/cg-black-01.png" alt="" style="width: 250px;">
-                <img class="mobile-only" src="assets/img/cg-white-01-01.png" alt="" style="width: 180px;">
-            </a>
-        </div>
+    <nav id="header-main" class="navbar navbar-custom" role="navigation">
+      <div class="container-fluid">
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                  <i class="fa fa-bars"></i>
+              </button>
+              <a class="navbar-brand page-scroll" href="" onclick="ga('send', 'event', 'Header', 'click', 'Logo');">
+                  <img class="hidden-xs" src="assets/img/cg-black-01.png" alt="" style="width: 250px;">
+                  <img class="mobile-only" src="assets/img/cg-white-01-01.png" alt="" style="width: 180px;">
+              </a>
+          </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-main-collapse">
-            <ul class="nav navbar-nav">
-                <!-- Hidden li included to remove active class from about link when scrolled up past about section 
-                <li><a class="page-scroll " href="works" onclick="ga('send', 'event', 'Header', 'click', 'Works');">Works.</a></li>
-                <li><a class="page-scroll " href="contact" onclick="ga('send', 'event', 'Header', 'click', 'Contact');">Contact.</a></li>
-                <li><a href="slides" onclick="ga('send', 'event', 'Header', 'click', 'Slides');">Slides.</a></li>-->
-                <!-- <li><a class="page-scroll " href="">Blog.</a></li> -->
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse navbar-main-collapse">
+              <ul class="nav navbar-nav">
+                  <!-- Hidden li included to remove active class from about link when scrolled up past about section 
+                  <li><a class="page-scroll " href="works" onclick="ga('send', 'event', 'Header', 'click', 'Works');">Works.</a></li>
+                  <li><a class="page-scroll " href="contact" onclick="ga('send', 'event', 'Header', 'click', 'Contact');">Contact.</a></li>
+                  <li><a href="slides" onclick="ga('send', 'event', 'Header', 'click', 'Slides');">Slides.</a></li>-->
+                  <!-- <li><a class="page-scroll " href="">Blog.</a></li> -->
+              </ul>
+          </div>
+          <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container -->
+    </nav>
     <section id="introduction" class="container-fluid container-xs-height">
       <div class="row row-xs-height">
         <div class="col-xs-12 col-sm-6 col-xs-height content-section">
@@ -64,13 +63,13 @@
           <p>Our priority is to build upon this knowledge to communicate the attributes of each project with a synthesis of form & content; of experimentation & craft; and of historical awareness & technological progressiveness.</p>
           <p>A grounding in conceptual thinking, a distinctive language-based typographic approach, and an imaginative approach to art direction form the essential foundations of our studio. Output is varied and exists in a diverse range of forms (from communication strategies, visual identity and concept development) and formats (from publications, books, and ephemera to digital media and environment).</p>
         </div>
-        <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/artwork_introduction.jpg)"></div>
+        <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/designer.jpg)"></div>
       </div>
     </section>
 
     <section id="approach" class="container-fluid container-xs-height">
       <div class="row row-xs-height">
-        <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/artwork_approach.jpg)"></div>
+        <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/developer_web.jpg)"></div>
         <div class="col-xs-12 col-sm-6 col-xs-height content-section">
           <h3>Developer</h3>
           <p>The studio’s approach is built on a clear methodology, whether working with individuals or institutions, we form strong relationships through dialogue in order to seek understanding of the unique requirements and criteria.</p>

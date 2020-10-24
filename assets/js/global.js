@@ -98,7 +98,6 @@ $(function() {
         var bannerHeight = $(window).height() - $('#header-main').outerHeight();
     }
 
-
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
@@ -118,7 +117,6 @@ $(function() {
                 $(this).addClass('closed');
             }
         });
-
 
         if($(this).parent().hasClass('closed')){
             // alert('ditutup');
