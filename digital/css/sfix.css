@@ -79,7 +79,7 @@ h5 {
   right: 0%;
   bottom: 0%;
   height: 100vh;
-  background-image: url('../images/startdust.png');
+  background-image: url('../digital/images/startdust.png');
   background-position: 50% 0%;
   background-size: 1461px;
   background-repeat: no-repeat;
@@ -99,7 +99,7 @@ h5 {
   margin-right: auto;
   margin-left: auto;
   padding-bottom: 0px;
-  background-image: url('../images/land.svg');
+  background-image: url('../digital/images/land.svg');
   background-position: 50% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ h5 {
   margin-top: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/moon.svg');
+  background-image: url('../digital/images/moon.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -136,18 +136,18 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/diagram.svg');
+  background-image: url('../digital/images/diagram.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .diagram._2 {
-  background-image: url('../images/Asset-5.svg');
+  background-image: url('../digital/images/Asset-5.svg');
 }
 
 .diagram._3 {
-  background-image: url('../images/Asset-6.svg');
+  background-image: url('../digital/images/Asset-6.svg');
 }
 
 .patungkiri {
@@ -159,7 +159,7 @@ h5 {
   width: 300px;
   height: 300px;
   margin-left: auto;
-  background-image: url('../images/patungkiri-1.png');
+  background-image: url('../digital/images/patungkiri-1.png');
   background-position: 50% 100%;
   background-size: 240px;
   background-repeat: no-repeat;
@@ -173,7 +173,7 @@ h5 {
   bottom: 0%;
   width: 300px;
   height: 300px;
-  background-image: url('../images/patungkanan-1.png');
+  background-image: url('../digital/images/patungkanan-1.png');
   background-position: 100% 100%;
   background-size: 240px;
   background-repeat: no-repeat;
@@ -231,7 +231,7 @@ h5 {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url('../images/patungkiri-1.png');
+  background-image: url('../digital/images/patungkiri-1.png');
   background-position: 0% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -244,7 +244,7 @@ h5 {
   right: 0%;
   bottom: 0%;
   padding-left: 0px;
-  background-image: url('../images/patungkanan-1.png');
+  background-image: url('../digital/images/patungkanan-1.png');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -270,7 +270,7 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/mata-1.png');
+  background-image: url('../digital/images/mata-1.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -286,7 +286,7 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/rayss.svg');
+  background-image: url('../digital/images/rayss.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -299,7 +299,7 @@ h5 {
   right: 0%;
   bottom: 0%;
   height: 100vh;
-  background-image: url('../images/galaxy.jpg');
+  background-image: url('../digital/images/galaxy.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: scroll;
@@ -315,7 +315,7 @@ h5 {
   height: 10%;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/scroll.png');
+  background-image: url('../digital/images/scroll.png');
   background-position: 50% 100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -358,7 +358,7 @@ h5 {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  background-image: url('../images/tari-1.png');
+  background-image: url('../digital/images/tari-1.png');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -374,7 +374,7 @@ h5 {
   height: 72%;
   margin-top: 14%;
   margin-left: 24%;
-  background-image: url('../images/boss.png');
+  background-image: url('../digital/images/boss.png');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -440,7 +440,7 @@ h5 {
   height: auto;
   margin-top: 26%;
   margin-right: 19%;
-  background-image: url('../images/surf.png');
+  background-image: url('../digital/images/surf.png');
   background-position: 0% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -456,7 +456,7 @@ h5 {
   height: auto;
   margin-top: 32%;
   margin-left: 18%;
-  background-image: url('../images/mejeng-1.png');
+  background-image: url('../digital/images/mejeng-1.png');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -756,7 +756,7 @@ h5 {
   height: auto;
   margin-top: 7%;
   margin-left: -2%;
-  background-image: url('../images/anak-1.png');
+  background-image: url('../digital/images/anak-1.png');
   background-position: 100% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -983,7 +983,7 @@ h5 {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url('../images/surf.png');
+  background-image: url('../digital/images/surf.png');
   background-position: 0px 0px;
   background-size: 125px;
 }
@@ -1206,18 +1206,18 @@ h5 {
 .cardimage {
   width: 100%;
   height: 200px;
-  background-image: url('../images/surf.png');
+  background-image: url('../digital/images/surf.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .cardimage._2 {
-  background-image: url('../images/boss.png');
+  background-image: url('../digital/images/boss.png');
 }
 
 .cardimage._3 {
-  background-image: url('../images/tari-1.png');
+  background-image: url('../digital/images/tari-1.png');
 }
 
 .heading-2 {
@@ -1743,7 +1743,7 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: 28px;
-  background-image: url('../images/Mobile.png');
+  background-image: url('../digital/images/Mobile.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1752,7 +1752,7 @@ h5 {
 .konten._2 {
   width: 100%;
   margin-left: auto;
-  background-image: url('../images/menpar-copy.png');
+  background-image: url('../digital/images/menpar-copy.png');
   background-size: cover;
 }
 
@@ -1764,25 +1764,25 @@ h5 {
 .konten.logoclient {
   width: 80%;
   margin-left: auto;
-  background-image: url('../images/1200px-PermataBank_logo.svg.png');
+  background-image: url('../digital/images/1200px-PermataBank_logo.svg.png');
   background-size: contain;
 }
 
 .konten.logoclient._2 {
-  background-image: url('../images/CIMB.svg');
+  background-image: url('../digital/images/CIMB.svg');
 }
 
 .konten.logoclient._3 {
-  background-image: url('../images/ff.svg');
+  background-image: url('../digital/images/ff.svg');
   background-size: 150px;
 }
 
 .konten.logoclient._4 {
-  background-image: url('../images/bank-danamon-vector-logo.svg');
+  background-image: url('../digital/images/bank-danamon-vector-logo.svg');
 }
 
 .konten.logoclient._5 {
-  background-image: url('../images/Logo-WI-Final-200920171.png');
+  background-image: url('../digital/images/Logo-WI-Final-200920171.png');
 }
 
 .submit-button {
@@ -1866,7 +1866,7 @@ h5 {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url('../images/circle.svg');
+  background-image: url('../digital/images/circle.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2092,7 +2092,7 @@ h5 {
   height: 18%;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/scroll.png');
+  background-image: url('../digital/images/scroll.png');
   background-position: 50% 100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2105,7 +2105,7 @@ h5 {
   height: 100px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/Layer-2.svg');
+  background-image: url('../digital/images/Layer-2.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2120,7 +2120,7 @@ h5 {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/Layer-2.svg');
+  background-image: url('../digital/images/Layer-2.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2154,26 +2154,26 @@ h5 {
   height: 30px;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: url('../images/Path-297.svg');
+  background-image: url('../digital/images/Path-297.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .sosmedlogo._2 {
-  background-image: url('../images/Group-216.svg');
+  background-image: url('../digital/images/Group-216.svg');
 }
 
 .sosmedlogo._3 {
-  background-image: url('../images/Group-218.svg');
+  background-image: url('../digital/images/Group-218.svg');
 }
 
 .sosmedlogo._4 {
-  background-image: url('../images/Group-217.svg');
+  background-image: url('../digital/images/Group-217.svg');
 }
 
 .sosmedlogo._5 {
-  background-image: url('../images/Group-215.svg');
+  background-image: url('../digital/images/Group-215.svg');
 }
 
 
@@ -2189,7 +2189,7 @@ h5 {
   height: 60px;
   margin-right: 20px;
   margin-bottom: 50px;
-  background-image: url('../images/Asset-4.svg');
+  background-image: url('../digital/images/Asset-4.svg');
   background-position: 50% 50%;
   background-size: contain;
   cursor: pointer;
@@ -2341,45 +2341,45 @@ h5 {
   height: 230px;
   margin-bottom: 10px;
   border-radius: 0px;
-  background-image: url('../images/462308833.jpg');
+  background-image: url('../digital/images/462308833.jpg');
   background-position: 0% 50%;
   background-size: cover;
 }
 
 .card-image._2 {
-  background-image: url('../images/1177724560.jpg');
+  background-image: url('../digital/images/1177724560.jpg');
 }
 
 .card-image._3 {
-  background-image: url('../images/585306209.jpg');
+  background-image: url('../digital/images/585306209.jpg');
   background-position: 50% 50%;
 }
 
 .card-image._4 {
-  background-image: url('../images/513678967.jpg');
+  background-image: url('../digital/images/513678967.jpg');
 }
 
 .card-image._5 {
-  background-image: url('../images/1080226652.jpg');
+  background-image: url('../digital/images/1080226652.jpg');
   background-position: 50% 50%;
 }
 
 .card-image._6 {
-  background-image: url('../images/1192257442.jpg');
+  background-image: url('../digital/images/1192257442.jpg');
   background-position: 50% 50%;
 }
 
 .card-image._7 {
-  background-image: url('../images/1354408493.jpg');
+  background-image: url('../digital/images/1354408493.jpg');
   background-position: 50% 50%;
 }
 
 .card-image._8 {
-  background-image: url('../images/1465335593.jpg');
+  background-image: url('../digital/images/1465335593.jpg');
 }
 
 .card-image._9 {
-  background-image: url('../images/1422270389.jpg');
+  background-image: url('../digital/images/1422270389.jpg');
   background-position: 50% 50%;
 }
 
@@ -2399,7 +2399,7 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/Asset-5.svg');
+  background-image: url('../digital/images/Asset-5.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2415,7 +2415,7 @@ h5 {
   height: auto;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/Asset-6.svg');
+  background-image: url('../digital/images/Asset-6.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2546,14 +2546,14 @@ h5 {
   width: auto;
   height: 70vh;
   margin-top: 46px;
-  background-image: url('../images/Layer-0.png');
+  background-image: url('../digital/images/Layer-0.png');
   background-position: 0% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .hero-image-1.git {
-  background-image: url('../images/talktous.jpg');
+  background-image: url('../digital/images/talktous.jpg');
 }
 
 .hero-image-2 {
@@ -2564,7 +2564,7 @@ h5 {
   overflow: hidden;
   width: 20%;
   height: 20%;
-  background-image: url('../images/Layer-1.png');
+  background-image: url('../digital/images/Layer-1.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2577,7 +2577,7 @@ h5 {
   overflow: hidden;
   width: 15%;
   height: 15%;
-  background-image: url('../images/Layer-2.png');
+  background-image: url('../digital/images/Layer-2.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2631,7 +2631,7 @@ h5 {
   margin-top: 67px;
   margin-right: 67px;
   margin-bottom: 67px;
-  background-image: url('../images/Layer-0.png');
+  background-image: url('../digital/images/Layer-0.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2759,7 +2759,7 @@ h5 {
   z-index: 1;
   height: 600px;
   background-color: #25ccc4;
-  background-image: url('../images/menpar-copy.png');
+  background-image: url('../digital/images/menpar-copy.png');
   background-position: 50% 100%;
   background-size: 800px;
   background-repeat: no-repeat;
@@ -2767,20 +2767,20 @@ h5 {
 
 .work-image._2 {
   background-color: #b0ee45;
-  background-image: url('../images/Mobile.png');
+  background-image: url('../digital/images/Mobile.png');
   background-size: 650px;
 }
 
 .work-image._3 {
   background-color: #e963bc;
-  background-image: url('../images/tokopedia1-1.png');
+  background-image: url('../digital/images/tokopedia1-1.png');
   background-position: 90% 100%;
   background-size: 700px;
 }
 
 .work-image._4 {
   background-color: #be375e;
-  background-image: url('../images/permata-1.png');
+  background-image: url('../digital/images/permata-1.png');
   background-position: 100% 100%;
   background-size: 600px;
 }
@@ -3022,7 +3022,7 @@ h5 {
   z-index: 1;
   width: 100%;
   height: 530px;
-  background-image: url('../images/talktous.jpg');
+  background-image: url('../digital/images/talktous.jpg');
   background-position: 100% 100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3031,7 +3031,7 @@ h5 {
 .bump1 {
   width: 100%;
   height: 300px;
-  background-image: url('../images/Layer-1_1.png');
+  background-image: url('../digital/images/Layer-1_1.png');
   background-position: 100% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3168,57 +3168,57 @@ h5 {
 
 .logo-img {
   height: 70px;
-  background-image: url('../images/Adobe.png');
+  background-image: url('../digital/images/Adobe.png');
   background-position: 50% 50%;
   background-size: 152px;
   background-repeat: no-repeat;
 }
 
 .logo-img._2 {
-  background-image: url('../images/Insider.png');
+  background-image: url('../digital/images/Insider.png');
 }
 
 .logo-img._2.client {
-  background-image: url('../images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
+  background-image: url('../digital/images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
   background-size: contain;
 }
 
 .logo-img._3 {
-  background-image: url('../images/MoEngage-01.png');
+  background-image: url('../digital/images/MoEngage-01.png');
   background-size: 172px;
 }
 
 .logo-img._3.client {
-  background-image: url('../images/Djarum.png');
+  background-image: url('../digital/images/Djarum.png');
   background-size: contain;
 }
 
 .logo-img._4 {
-  background-image: url('../images/Tiktok-2-01.png');
+  background-image: url('../digital/images/Tiktok-2-01.png');
   background-size: 150px;
 }
 
 .logo-img._4.client {
-  background-image: url('../images/kalbestore.png');
+  background-image: url('../digital/images/kalbestore.png');
   background-size: contain;
 }
 
 .logo-img._6 {
-  background-image: url('../images/Facebook-Logo.png');
+  background-image: url('../digital/images/Facebook-Logo.png');
   background-size: 176px;
 }
 
 .logo-img._6.client {
-  background-image: url('../images/garuda.png');
+  background-image: url('../digital/images/garuda.png');
   background-size: contain;
 }
 
 .logo-img._5 {
-  background-image: url('../images/Google.png');
+  background-image: url('../digital/images/Google.png');
 }
 
 .logo-img._5.client {
-  background-image: url('../images/island-hospital.png');
+  background-image: url('../digital/images/island-hospital.png');
   background-size: contain;
 }
 
@@ -3227,7 +3227,7 @@ h5 {
 }
 
 .logo-img._1.client {
-  background-image: url('../images/bank-danamon-vector-logo_1.svg');
+  background-image: url('../digital/images/bank-danamon-vector-logo_1.svg');
   background-size: 254px;
 }
 
@@ -3237,50 +3237,50 @@ h5 {
 }
 
 .logo-img.partner._2 {
-  background-image: url('../images/appsflyer.png');
+  background-image: url('../digital/images/appsflyer.png');
 }
 
 .logo-img.partner._4 {
-  background-image: url('../images/tiktok.svg');
+  background-image: url('../digital/images/tiktok.svg');
 }
 
 .logo-img.client {
   height: 50px;
-  background-image: url('../images/CIMB_1.svg');
+  background-image: url('../digital/images/CIMB_1.svg');
   background-size: contain;
 }
 
 .logo-img.client._2 {
-  background-image: url('../images/Logo-WI-Final-200920171_1-1.png');
+  background-image: url('../digital/images/Logo-WI-Final-200920171_1-1.png');
 }
 
 .logo-img.client._7 {
-  background-image: url('../images/Danamon.svg');
+  background-image: url('../digital/images/Danamon.svg');
 }
 
 .logo-img.client._8 {
-  background-image: url('../images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
+  background-image: url('../digital/images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
 }
 
 .logo-img.client._9 {
-  background-image: url('../images/ff_1.svg');
+  background-image: url('../digital/images/ff_1.svg');
 }
 
 .logo-img.client._10 {
-  background-image: url('../images/PermataBank-01.svg');
+  background-image: url('../digital/images/PermataBank-01.svg');
 }
 
 .logo-img.client._11 {
-  background-image: url('../images/japri.svg');
+  background-image: url('../digital/images/japri.svg');
 }
 
 .logo-img.client._12 {
-  background-image: url('../images/bnp-paribas.png');
+  background-image: url('../digital/images/bnp-paribas.png');
 }
 
 .content18-image1 {
   height: 410px;
-  background-image: url('../images/2.jpeg');
+  background-image: url('../digital/images/2.jpeg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3386,7 +3386,7 @@ h5 {
 
 .content18-image3 {
   height: 460px;
-  background-image: url('../images/IMG-20190123-WA0034.jpg');
+  background-image: url('../digital/images/IMG-20190123-WA0034.jpg');
   background-position: 35% 50%;
   background-size: cover;
 }
@@ -3413,7 +3413,7 @@ h5 {
 
 .content18-image2 {
   height: 260px;
-  background-image: url('../images/4.jpeg');
+  background-image: url('../digital/images/4.jpeg');
   background-position: 41% 50%;
   background-size: cover;
 }
@@ -3750,7 +3750,7 @@ h5 {
     height: 60px;
     margin-right: 20px;
     margin-bottom: 50px;
-    background-image: url('../images/whatsapp-magnus.png');
+    background-image: url('../digital/images/whatsapp-magnus.png');
     background-position: 50% 50%;
     border-radius: 50%;
     background-color: #075e54;
@@ -3838,7 +3838,7 @@ h5 {
     font-size: 14px;
   }
   .himagnus {
-    background-image: url('../images/Asset-4.svg');
+    background-image: url('../digital/images/Asset-4.svg');
   }
   .card-image {
     height: 240px;
@@ -3920,7 +3920,7 @@ h5 {
     font-size: 100px;
   }
   .hero-image-1 {
-    background-image: url('../images/talktous.jpg');
+    background-image: url('../digital/images/talktous.jpg');
   }
   .testi-bg {
     display: -webkit-box;
@@ -3963,42 +3963,42 @@ h5 {
     grid-row-gap: 60px;
   }
   .logo-img._2.client {
-    background-image: url('../images/Logo-WI-Final-200920171.png');
+    background-image: url('../digital/images/Logo-WI-Final-200920171.png');
   }
   .logo-img._3.client {
-    background-image: url('../images/CIMB.svg');
+    background-image: url('../digital/images/CIMB.svg');
   }
   .logo-img._4.client {
-    background-image: url('../images/1200px-PermataBank_logo.svg.png');
+    background-image: url('../digital/images/1200px-PermataBank_logo.svg.png');
   }
   .logo-img._6.client {
-    background-image: url('../images/Logo-WI-Final-200920171.png');
+    background-image: url('../digital/images/Logo-WI-Final-200920171.png');
   }
   .logo-img._5.client {
-    background-image: url('../images/ff.svg');
+    background-image: url('../digital/images/ff.svg');
     background-size: contain;
   }
   .logo-img._1.client {
-    background-image: url('../images/bank-danamon-vector-logo.svg');
+    background-image: url('../digital/images/bank-danamon-vector-logo.svg');
   }
   .logo-img.partner {
     height: 50px;
     background-size: contain;
   }
   .logo-img.client._2 {
-    background-image: url('../images/Logo-WI-Final-200920171_1-1.png');
+    background-image: url('../digital/images/Logo-WI-Final-200920171_1-1.png');
   }
   .logo-img.client._3 {
-    background-image: url('../images/Djarum.png');
+    background-image: url('../digital/images/Djarum.png');
   }
   .logo-img.client._5 {
-    background-image: url('../images/island-hospital.png');
+    background-image: url('../digital/images/island-hospital.png');
   }
   .logo-img.client._4 {
-    background-image: url('../images/kalbestore.png');
+    background-image: url('../digital/images/kalbestore.png');
   }
   .logo-img.client._6 {
-    background-image: url('../images/garuda.png');
+    background-image: url('../digital/images/garuda.png');
   }
 }
 
@@ -4483,7 +4483,7 @@ h5 {
   }
   .work-image._2 {
     background-color: #b0ee45;
-    background-image: url('../images/Mobile.png');
+    background-image: url('../digital/images/Mobile.png');
     background-position: 50% 100%;
     background-size: 734px;
   }
@@ -4572,7 +4572,7 @@ h5 {
     height: 50px;
     margin-right: 20px;
     margin-bottom: 50px;
-    background-image: url('../images/whatsapp-magnus.png');
+    background-image: url('../digital/images/whatsapp-magnus.png');
     background-position: 50% 50%;
     border-radius: 50%;
     background-color: #075e54;
@@ -5003,7 +5003,7 @@ h5 {
     background-size: 600px;
   }
   .work-image._2 {
-    background-image: url('../images/Mobile_1-1.png');
+    background-image: url('../digital/images/Mobile_1-1.png');
     background-position: 94% 100%;
     background-size: 500px;
   }
@@ -5855,7 +5855,7 @@ h5 {
     width: auto;
     height: 100vh;
     margin-top: 36%;
-    background-image: url('../images/land.svg');
+    background-image: url('../digital/images/land.svg');
     background-position: 50% 0%;
     background-size: cover;
   }
@@ -5939,7 +5939,7 @@ h5 {
     height: 70vh;
     margin: 0px auto;
     padding-bottom: 0px;
-    background-image: url('../images/mata-1.png');
+    background-image: url('../digital/images/mata-1.png');
     background-size: contain;
   }
   .rays {
@@ -6565,7 +6565,7 @@ h5 {
   }
   .work-image._2 {
     background-color: #b0ee45;
-    background-image: url('../images/Mobile_1-1.png');
+    background-image: url('../digital/images/Mobile_1-1.png');
     background-position: 50% 75%;
     background-size: contain;
   }
@@ -6800,17 +6800,17 @@ h5 {
   }
   .logo-img.client {
     height: 50px;
-    background-image: url('../images/CIMB_1.svg');
+    background-image: url('../digital/images/CIMB_1.svg');
     background-size: contain;
   }
   .logo-img.client._2 {
-    background-image: url('../images/Logo-WI-Final-200920171_1-1.png');
+    background-image: url('../digital/images/Logo-WI-Final-200920171_1-1.png');
   }
   .logo-img.client._7 {
-    background-image: url('../images/Danamon.svg');
+    background-image: url('../digital/images/Danamon.svg');
   }
   .logo-img.client._8 {
-    background-image: url('../images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
+    background-image: url('../digital/images/tokopedia-logo-white-8b4e2fb8ea81e5868b812bafa249942e.svg');
   }
   .content18-content-wrap {
     margin-bottom: 0px;

@@ -10,10 +10,10 @@
   <meta content="getintouch" property="twitter:title">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
-  <link href="css/normalize.css" rel="stylesheet" type="text/css">
-  <link href="css/w.css" rel="stylesheet" type="text/css">
-  <link href="css/magnuss.css" rel="stylesheet" type="text/css">
-  <link href="css/sfix.css" rel="stylesheet" type="text/css">
+  <link href="digital/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="digital/css/w.css" rel="stylesheet" type="text/css">
+  <link href="digital/css/magnuss.css" rel="stylesheet" type="text/css">
+  <link href="digital/css/sfix.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -31,39 +31,14 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-  <link href="images/magnusnewlogo.jpg" rel="shortcut icon" type="image/x-icon">
-  <link href="images/webclip.png" rel="apple-touch-icon">
+  <link href="digital/images/icon/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="digital/images/icon/favicon.ico" rel="apple-touch-icon">
   <style>
       .hero-text-1 {
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: white;
       }
     </style>
-     <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-W34PQR3');</script>
-  <!-- End Google Tag Manager -->
-
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '2678380282485879');
-  fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=2678380282485879&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Facebook Pixel Code -->
 
 </head>
 <body>
@@ -81,13 +56,10 @@
     fbq('track', 'ViewContent');
     })
    </script>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W34PQR3"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+
   <div class="nav work">
     <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.php" class="link-block-4 head w-inline-block">
-      <div class="div-block-5"><img src="images/Layer-2.svg" alt="" class="image-3 brand"></div>
+      <div class="div-block-5"><img src="digital/images/Layer-2.svg" alt="" class="image-3 brand"></div>
     </a>
     <div data-w-id="dbd3a792-5e7e-07c8-0bf6-ac1483f87865" style="-webkit-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-wrapper">
       <!-- <a href="index.php" class="link-block w-inline-block">
@@ -121,14 +93,14 @@
       <div data-w-id="413a92b7-6af7-65fe-8035-c15b1cd38669" class="menu-trigger-line"></div>
       <div data-w-id="a3fa5de3-4ef3-c36b-9e8b-4407bd456f55" style="-webkit-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-trigger-line"></div>
     </div>
-    <a onclick="window.open('https://wa.me/6281218678818?text=Hello%20Magnus%20Digital!%20')" class="whatsapp"></a>
+    <a onclick="window.open('https://wa.me/6282236730021?text=Hello%20Saya Ingin Bertanya')" class="whatsapp"></a>
     <div data-w-id="63280ac1-4c15-cbf6-c8c1-c6d83527c0f0" class="himagnus"></div>
     <div style="display:none;opacity:0" class="himagnus-form">
       <div class="container formpopup">
         <div class="getintouch _3">
           <h2 class="heading form">We collaborate in power with people of vision. Are you one of them?</h2>
         </div>
-        <div data-w-id="447a4c4d-771e-f11d-d63b-876e61d80aa9" class="closebutton"><img src="images/close.svg" width="20" alt=""></div> 
+        <div data-w-id="447a4c4d-771e-f11d-d63b-876e61d80aa9" class="closebutton"><img src="digital/images/close.svg" width="20" alt=""></div> 
         <form action="" method="POST" id="form1" class="cta11-form-wrap-copy">
           <input type="text" class="text-field-8 bottom-margin-field w-input name" minlength="1" id="name" name="name" placeholder="Name *" required>
           <input type="email" class="text-field-8 bottom-margin-field w-input email"  placeholder="Email *" id="email" name="email" required>
@@ -192,7 +164,7 @@
     <div class="container footer">
       <div class="magnus">
         <a href="index.php" class="link-block-4 foot w-inline-block">
-          <div class="div-block-5"><img src="images/Layer-2.svg" alt="" class="image-3 brandfooter"></div>
+          <div class="div-block-5"><img src="digital/images/Layer-2.svg" alt="" class="image-3 brandfooter"></div>
         </a>
         <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
       </div>
@@ -305,7 +277,7 @@
             
            
             $('#submit1').attr("value", "Please wait . . .");
-            setTimeout('window.location.href = "https://www.magnusdigital.co.id/thankyou.html";', 3000);
+            setTimeout('window.location.href = "thankyou.html";', 3000);
         }
       }
         function sendEmailForm(){
@@ -331,7 +303,7 @@
             
            
             $('#submit2').attr("value", "Please wait . . .");
-            setTimeout('window.location.href = "https://www.magnusdigital.co.id/thankyou.html";', 3000);
+            setTimeout('window.location.href = "thankyou.html";', 3000);
         }
  
  
@@ -347,9 +319,7 @@
     }
   </script>
   
-  <script src="js/magnus.js" type="text/javascript"></script>
-  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-  <!--script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","737716269965974");fbq("track","PageView");</script-->
-<!--noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=737716269965974&amp;ev=PageView&amp;noscript=1"></noscript-->
+  <script src="digital/js/magnus.js" type="text/javascript"></script>
+
 </body>
 </html>

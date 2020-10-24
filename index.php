@@ -3,14 +3,14 @@
 <html data-wf-page="5e6afab640b2ff04ed2cf37e" data-wf-site="5e6afab640b2ff52a52cf37d">
 <head>
   <meta charset="utf-8">
-  <title>Award-Winning Digital Marketing Agency - Magnus Digital</title>
+  <title>Creative Geek - #TheBestPlaceToDoCoolThings</title>
   <meta name="description" content="A Digital Marketing Agency Based in Jakarta That You Can Count On For Your Marketing, Creative, and Technology Needs to Achieve Your Business Objectives.">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
 
-  <link href="css/normalize.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/normalize.css" rel="stylesheet"/></noscript>
-  <link href="css/w.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/w.css" rel="stylesheet"/></noscript>
-  <link href="css/magnusfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/s5.css" rel="stylesheet"/></noscript>
+  <link href="digital/css/normalize.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/normalize.css" rel="stylesheet"/></noscript>
+  <link href="digital/css/w.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/w.css" rel="stylesheet"/></noscript>
+  <link href="digital/css/magnusfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/s5.css" rel="stylesheet"/></noscript>
   
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript" async></script>
   <script type="text/javascript">
@@ -28,8 +28,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-  <link href="images/magnusnewlogo.jpg" rel="shortcut icon" type="image/x-icon">
-  <link href="images/magnusnewlogo.jpg" rel="apple-touch-icon">
+  <link href="digital/images/icon/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="digital/images/icon/favicon.ico" rel="apple-touch-icon">
   <style>
       .hero-text-2 {
         -webkit-text-stroke-width: 1px;
@@ -42,7 +42,7 @@
  
   <div class="nav">
     <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.php" aria-current="page" class="link-block-4 head w-inline-block w--current">
-      <div class="div-block-5"><img src="images/cg-white-01-01.png" alt="" class="image-3 brand" style="width: 400px; height: 90px;"></div>
+      <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brand" style="width: 400px; height: 90px;"></div>
     </a>
     <div data-w-id="dbd3a792-5e7e-07c8-0bf6-ac1483f87865" style="-webkit-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-wrapper">
       <!-- <a href="#" class="link-block w-inline-block">
@@ -71,14 +71,14 @@
       <div data-w-id="413a92b7-6af7-65fe-8035-c15b1cd38669" class="menu-trigger-line"></div>
       <div data-w-id="a3fa5de3-4ef3-c36b-9e8b-4407bd456f55" style="-webkit-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-trigger-line"></div>
     </div>
-    <a onclick="window.open('https://wa.me/6281218678818?text=Hello%20Magnus%20Digital!%20')" class="whatsapp"></a>
+    <a onclick="window.open('https://wa.me/6282236730021?text=Hello%20Saya Ingin Bertanya')" class="whatsapp"></a>
     <div data-w-id="63280ac1-4c15-cbf6-c8c1-c6d83527c0f0" class="himagnus"></div>
     <div style="display:none;opacity:0" class="himagnus-form">
       <div class="container formpopup">
         <div class="getintouch _3">
           <h2 class="heading form">We collaborate in power with people of vision. Are you one of them?</h2>
         </div>
-        <div data-w-id="c6a47aa0-c2ca-3484-9594-609ea53b43fe" class="closebutton"><img src="images/close.svg" width="20" alt=""></div><br> 
+        <div data-w-id="c6a47aa0-c2ca-3484-9594-609ea53b43fe" class="closebutton"><img src="digital/images/close.svg" width="20" alt=""></div><br> 
         <form action="" method="POST" id="form1" class="cta11-form-wrap-copy">
           <input type="text" class="text-field-8 bottom-margin-field w-input name" minlength="1" id="name" name="name" placeholder="Name *" required>
           <input type="email" class="text-field-8 bottom-margin-field w-input email"  placeholder="Email *" id="email" name="email" required>
@@ -279,15 +279,15 @@
     <div class="container footer">
       <div class="magnus">
         <a href="#" class="link-block-4 foot w-inline-block">
-          <div class="div-block-5"><img src="images/cg-white-01-01.png" alt="" class="image-3 brandfooter"></div>
+          <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brandfooter"></div>
         </a>
         <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
       </div>
     </div>
   </div>
 
-  <script src="js/jquery-3.1.0.js"></script>
-<script src="js/jquery-validation.js"></script>
+  <script src="digital/js/jquery-3.1.0.js"></script>
+<script src="digital/js/jquery-validation.js"></script>
   <script type='application/ld+json'>
     {
       "@context" : "http://schema.org",
@@ -303,7 +303,7 @@
         "https://www.linkedin.com/company/pt.-magnus-digital-indonesia",
         "https://www.instagram.com/magnusdigitalindonesia/"
       ],
-      "logo": "http://www.magnusdigital.co.id/images/favicon-transparent32x32.png"
+      "logo": "digital/images/favicon-transparent32x32.png"
     }
     </script>
     
@@ -376,12 +376,12 @@
             
            
             $('#submit1').attr("value", "Please wait . . .");
-            setTimeout('window.location.href = "https://www.magnusdigital.co.id/thankyou.html";', 3000);
+            setTimeout('window.location.href = "thankyou.html";', 3000);
         }
       }
 
   </script>
-  <script src="js/magnus.js" type="text/javascript"></script>
+  <script src="digital/js/magnus.js" type="text/javascript"></script>
   
 </body>
 
