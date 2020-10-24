@@ -11,7 +11,7 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" href="assets/favicon.png" />
     <link href="assets/css/required/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/style.css?<?php echo date('Y-m-d H:i:s') ?>" rel="stylesheet">
+    <link href="assets/css/style.css?<?php echo date('YmdHis') ?>" rel="stylesheet">
 
     <script src="assets/js/required/jquery-1.10.2.min.js"></script>
 
