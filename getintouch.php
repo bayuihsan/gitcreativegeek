@@ -305,7 +305,7 @@
             
            
             $('#submit1').attr("value", "Please wait . . .");
-            setTimeout('window.location.href = "thankyou.html";', 3000);
+            setTimeout('window.location.href = "https://www.magnusdigital.co.id/thankyou.html";', 3000);
         }
       }
         function sendEmailForm(){
