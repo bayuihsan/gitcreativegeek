@@ -60,7 +60,7 @@
       <div class="row row-xs-height">
         <div class="col-xs-12 col-sm-6 col-xs-height content-section">
           <h3>Designer</h3>
-          <p>Mineral is a small and fast-growing team based in Jakarta. Every single morning begins with a passion for internet technology, design, social media, and digital world. We do our best work in terms of effectively communicating your message to your audience with better experiences through web, mobile application and an all-round digital creative service. We are ready to be your trustworthy partner, full time listener and collaborative problem-solver.</p>
+          <p>Lorem Ipsum</p>
         </div>
         <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/artwork_introduction.jpg)"></div>
       </div>
@@ -71,9 +71,7 @@
         <div class="hidden-xs col-sm-6 col-xs-height content-bg height-half hide-first" style="background-image: url(assets/uploads/site/artwork_approach.jpg)"></div>
         <div class="col-xs-12 col-sm-6 col-xs-height content-section">
           <h3>Developer</h3>
-          <p>The studio’s approach is built on a clear methodology, whether working with individuals or institutions, we form strong relationships through dialogue in order to seek understanding of the unique requirements and criteria.</p>
-          <p>Our priority is to build upon this knowledge to communicate the attributes of each project with a synthesis of form & content; of experimentation & craft; and of historical awareness & technological progressiveness.</p>
-          <p>A grounding in conceptual thinking, a distinctive language-based typographic approach, and an imaginative approach to art direction form the essential foundations of our studio. Output is varied and exists in a diverse range of forms (from communication strategies, visual identity and concept development) and formats (from publications, books, and ephemera to digital media and environment).</p>
+          <p>Lorem Ipsum</p>
         </div>
       </div>
     </section>
