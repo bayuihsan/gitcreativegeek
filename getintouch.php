@@ -12,17 +12,10 @@
   <meta content="Webflow" name="generator">
   <link href="digital/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="digital/css/w.css" rel="stylesheet" type="text/css">
-  <link href="digital/css/magnuss.css" rel="stylesheet" type="text/css">
+  <link href="digital/css/creativegeek.css" rel="stylesheet" type="text/css">
   <link href="digital/css/sfix.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
-  <script type="text/javascript">
-      WebFont.load({
-        google: {
-          families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic", "PT Sans:400,400italic,700,700italic"]
-        }
-      });
-    </script>
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
   <script type="text/javascript">
       ! function(o, c) {
@@ -131,22 +124,21 @@
     </div>
     <div class="w-layout-grid cta11-grid">
       <div id="w-node-99f212b82f57-350fd250" class="cta11-map-wrap">
-        <iframe width="1200" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ2f1BIgP0aS4RyEKq0il2jM8&key=AIzaSyB13XAhLy9e2ZyQuAP4pVMXBHlRbPOENPg" allowfullscreen></iframe>
+        <!-- <iframe width="1200" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ2f1BIgP0aS4RyEKq0il2jM8&key=AIzaSyB13XAhLy9e2ZyQuAP4pVMXBHlRbPOENPg" allowfullscreen></iframe> -->
       </div>
       <div id="w-node-99f212b82f59-350fd250" class="cta11-form-wrap">
         <div id="w-node-99f212b82f5a-350fd250" class="div-block-9">
           <div class="cta11-title-wrap">
             <div class="size3-text size3-top-clear">Get In Touch<br></div>
-            <p class="paragraph-71 paragraph70-bottom-clear"><strong>Magnus Digital Indonesia</strong><br>Wisma Nugra Santana, Jln. Jend. Sudirman Kav 7-8, 16th Floor, RT.10/RW.11, Karet Tengsin, Kota Jakarta Pusat, Daerah Khusus Ibu Kota Jakarta 10220<br></p>
+            <p class="paragraph-71 paragraph70-bottom-clear"><strong>Creative Geek</strong><br>Gedung Creative Geek<br></p>
           </div>
           <div>
             <div class="cta11-item-wrap">
-              <div class="text-label">Call Us</div><a href="#" class="size5-link">+62 (21) 579-03-999</a></div>
+              <div class="text-label">Call Us</div><a href="#" class="size5-link"></a></div>
             <div class="cta11-item-wrap">
-              <div class="text-label">Email Us</div><a href="#" class="size5-link"><span class="__cf_email__" data-cfemail="e88a9d9b81868d9b9ba885898f869d9b8c818f819c8984c68b87c6818c">[email&#160;protected]</span></a></div>
+              <div class="text-label">Email Us</div><a href="#" class="size5-link"><span class="__cf_email__"></span></a></div>
           </div>
         </div>  
-        <!-- success -->
         <div id="w-node-99f212b82f6d-350fd250" data-w-id="c6a47aa0-c2ca-3484-9594-609ea53b43fe" class="cta11-form w-form">
           <form class="cta11-form-wrap-copy"  method="POST" target="" id="form2">
             <input type="text" class="text-field-8 bottom-margin-field w-input" maxlength="256" name="nameform" id="nameform" placeholder="Name *">
@@ -154,7 +146,6 @@
             <input type="number" class="text-field-8 bottom-margin-field w-input" maxlength="256" name="telform"  placeholder="Phone Number *" id="telform">
             <textarea placeholder="Message *" maxlength="5000" id="descform" name="descform" class="text-area w-input"></textarea>
             <input type="submit" value="Submit"  id="submit2" class="button-small form-centered-button w-button">
-            <!-- onclick="sendEmailForm();" -->
           </form>
         </div>
       </div>
@@ -166,12 +157,11 @@
         <a href="index.php" class="link-block-4 foot w-inline-block">
           <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brandfooter"></div>
         </a>
-        <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
+        <div class="sosmed-wrapper"><a href="#" class="sosmedlogo _2 w-inline-block"></a><a href="#" class="sosmedlogo _5 w-inline-block"></a></div>
       </div>
     </div>
   </div>
   
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5e6afab640b2ff52a52cf37d" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js" type="text/javascript"></script>
   <script type="text/javascript">
   
@@ -319,7 +309,7 @@
     }
   </script>
   
-  <script src="digital/js/magnus.js" type="text/javascript"></script>
+  <script src="digital/js/creativegeek.js" type="text/javascript"></script>
 
 </body>
 </html>
