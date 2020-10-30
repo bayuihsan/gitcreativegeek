@@ -1209,18 +1209,18 @@ h5 {
 .cardimage {
   width: 100%;
   height: 200px;
-  background-image: url('../images/surf.png');
+  /*background-image: url('../images/surf.png');*/
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .cardimage._2 {
-  background-image: url('../images/boss.png');
+  /*background-image: url('../images/boss.png');*/
 }
 
 .cardimage._3 {
-  background-image: url('../images/tari-1.png');
+  /*background-image: url('../images/tari-1.png');*/
 }
 
 .heading-2 {
@@ -2762,7 +2762,7 @@ h5 {
   z-index: 1;
   height: 600px;
   background-color: #25ccc4;
-  background-image: url('../images/menpar-copy.png');
+  /*background-image: url('../images/menpar-copy.png');*/
   background-position: 50% 100%;
   background-size: 800px;
   background-repeat: no-repeat;
@@ -2770,20 +2770,20 @@ h5 {
 
 .work-image._2 {
   background-color: #b0ee45;
-  background-image: url('../images/Mobile.png');
+  /*background-image: url('../images/Mobile.png');*/
   background-size: 650px;
 }
 
 .work-image._3 {
   background-color: #e963bc;
-  background-image: url('../images/tokopedia1-1.png');
+  /*background-image: url('../images/tokopedia1-1.png');*/
   background-position: 90% 100%;
   background-size: 700px;
 }
 
 .work-image._4 {
   background-color: #be375e;
-  background-image: url('../images/permata-1.png');
+  /*background-image: url('../images/permata-1.png');*/
   background-position: 100% 100%;
   background-size: 600px;
 }

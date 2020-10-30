@@ -10,7 +10,7 @@
 
   <link href="digital/css/normalize.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/normalize.css" rel="stylesheet"/></noscript>
   <link href="digital/css/w.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/w.css" rel="stylesheet"/></noscript>
-  <link href="digital/css/magnusfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/s5.css" rel="stylesheet"/></noscript>
+  <link href="digital/css/creativegeekfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="digital/css/s5.css" rel="stylesheet"/></noscript>
   
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript" async></script>
   <script type="text/javascript">
@@ -121,7 +121,7 @@
       <div data-w-id="dc8f8051-15ab-9046-56db-5b216ac87fab" class="text-block-4" style="font-size: 27px;">Semua yang kamu cari ada disini<br><span style="font-size: 15px;">#TheBestPlaceToDoCoolThings</span></div>
     </div>
   </div>
-  <div class="ourspecialities award">
+  <?php /*<div class="ourspecialities award">
     <div class="w-layout-grid content18-grid">
       <div id="w-node-bbe4ac8097d9-ed2cf37e" class="content18-content-wrap">
         <div class="content18-headline-wrap">
@@ -139,12 +139,12 @@
       </div>
       <div id="w-node-bbe4ac809807-ed2cf37e" class="content18-image3"></div>
     </div>
-  </div>
+  </div>*/?>
   <div class="ourspecialities">
     <div class="ourspecialities-countainer">
       <div id="w-node-605807d6dcf9-ed2cf37e" class="topwrapper">
-        <div class="ourspecialities-text"><span class="ourspecialities-number">01</span> / Our Services</div>
-        <h2 class="heading">A great chain of excellence that ignites business growth.</h2>
+        <div class="ourspecialities-text"><span class="ourspecialities-number">01</span> / Designer</div>
+        <h2 class="heading"></h2>
       </div>
       <div id="w-node-605807d6dd00-ed2cf37e" class="slidecard">
         <div class="cardimage"></div>
@@ -168,9 +168,9 @@
   </div>
   <div class="section4">
     <div class="container work sectio4">
-      <div class="ourspecialities-text worktext"><span class="ourspecialities-number">02</span> / Our Brand</div>
-      <div class="hero-text-2 top homer">We bring greatness into life by inserting excellence in every step of proceeding and turning actions into meaningful work.</div>
-      <div class="hero-text-2 homer">We bring greatness into life by inserting excellence in every step of proceeding and turning actions into meaningful work.</div>
+      <div class="ourspecialities-text worktext"><span class="ourspecialities-number">02</span> / Developer</div>
+      <div class="hero-text-2 top homer"></div>
+      <div class="hero-text-2 homer"></div>
       <div data-animation="slide" data-duration="500" data-infinite="1" class="currentwork-slider w-slider">
         <div class="mask-6 w-slider-mask">
           <div class="slide-3 w-slide">
@@ -243,7 +243,7 @@
         </div>
         <div class="slide-nav-4 w-slider-nav w-round"></div>
       </div>
-      <div class="logolist client">
+      <?php /*<div class="logolist client">
         <div class="logo-img client"></div>
         <div class="logo-img client _2"></div>
         <div class="logo-img client _3"></div>
@@ -256,10 +256,10 @@
         <div class="logo-img client _10"></div>
         <div class="logo-img client _11"></div>
         <div class="logo-img client _12"></div>
-      </div>
+      </div>*/?>
     </div>
   </div>
-  <div class="partnertech">
+  <?php /*<div class="partnertech">
     <div class="container partner">
       <div class="ourspecialities-text worktext"><span class="ourspecialities-number">03</span> / Our Partner</div>
       <div class="logolist partner">
@@ -274,7 +274,7 @@
       
     </div>
     </div>
-  </div>
+  </div>*/?>
   <div class="footer">
     <div class="container footer">
       <div class="magnus">
@@ -381,7 +381,7 @@
       }
 
   </script>
-  <script src="digital/js/magnus.js" type="text/javascript"></script>
+  <script src="digital/js/creativegeek.js" type="text/javascript"></script>
   
 </body>
 

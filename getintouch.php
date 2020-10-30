@@ -58,7 +58,7 @@
    </script>
 
   <div class="nav work">
-    <a data-w-id="4c1e30f2-4aef-bbd6-c827-daf7a580f73c" href="index.php" class="link-block-4 head w-inline-block">
+    <a href="index.php" class="link-block-4 head w-inline-block">
       <div class="div-block-5"><img src="digital/images/cg-white-01-01.png" alt="" class="image-3 brand"></div>
     </a>
     <div data-w-id="dbd3a792-5e7e-07c8-0bf6-ac1483f87865" style="-webkit-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-wrapper">

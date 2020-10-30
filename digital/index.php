@@ -3,14 +3,14 @@
 <html data-wf-page="5e6afab640b2ff04ed2cf37e" data-wf-site="5e6afab640b2ff52a52cf37d">
 <head>
   <meta charset="utf-8">
-  <title>Award-Winning Digital Marketing Agency - Magnus Digital</title>
+  <title>Award-Winning Digital Marketing Agency - creativegeek Digital</title>
   <meta name="description" content="A Digital Marketing Agency Based in Jakarta That You Can Count On For Your Marketing, Creative, and Technology Needs to Achieve Your Business Objectives.">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
 
   <link href="css/normalize.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/normalize.css" rel="stylesheet"/></noscript>
   <link href="css/w.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/w.css" rel="stylesheet"/></noscript>
-  <link href="css/magnusfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/s5.css" rel="stylesheet"/></noscript>
+  <link href="css/creativegeekfix.css" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="css/s5.css" rel="stylesheet"/></noscript>
   
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript" async></script>
   <script type="text/javascript">
@@ -28,8 +28,8 @@
         n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
       }(window, document);
     </script>
-  <link href="images/magnusnewlogo.jpg" rel="shortcut icon" type="image/x-icon">
-  <link href="images/magnusnewlogo.jpg" rel="apple-touch-icon">
+  <link href="images/creativegeeknewlogo.jpg" rel="shortcut icon" type="image/x-icon">
+  <link href="images/creativegeeknewlogo.jpg" rel="apple-touch-icon">
   <style>
       .hero-text-2 {
         -webkit-text-stroke-width: 1px;
@@ -71,9 +71,9 @@
       <div data-w-id="413a92b7-6af7-65fe-8035-c15b1cd38669" class="menu-trigger-line"></div>
       <div data-w-id="a3fa5de3-4ef3-c36b-9e8b-4407bd456f55" style="-webkit-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="menu-trigger-line"></div>
     </div>
-    <a onclick="window.open('https://wa.me/6281218678818?text=Hello%20Magnus%20Digital!%20')" class="whatsapp"></a>
-    <div data-w-id="63280ac1-4c15-cbf6-c8c1-c6d83527c0f0" class="himagnus"></div>
-    <div style="display:none;opacity:0" class="himagnus-form">
+    <a onclick="window.open('https://wa.me/6281218678818?text=Hello%20creativegeek%20Digital!%20')" class="whatsapp"></a>
+    <div data-w-id="63280ac1-4c15-cbf6-c8c1-c6d83527c0f0" class="hicreativegeek"></div>
+    <div style="display:none;opacity:0" class="hicreativegeek-form">
       <div class="container formpopup">
         <div class="getintouch _3">
           <h2 class="heading form">We collaborate in power with people of vision. Are you one of them?</h2>
@@ -117,8 +117,8 @@
     <div data-w-id="ad9fa324-7cd6-6ea6-3a8b-9a2c89040fdb" class="scroll">
       <div class="text-block">SCROLL</div>
     </div>
-    <div class="magnusficent">
-      <div data-w-id="dc8f8051-15ab-9046-56db-5b216ac87fab" class="text-block-4" style="font-size: 27px;">The kind of force you’ve never seen before, we dare to confront the common. Be ready to witness how great our minds emerged, driven by the power of intelligence, mighty creative ideas, stamina of overkill-strategies - turning big thinking into powerful actions.<br>#MAGNUSFICENT</div>
+    <div class="creativegeekficent">
+      <div data-w-id="dc8f8051-15ab-9046-56db-5b216ac87fab" class="text-block-4" style="font-size: 27px;">The kind of force you’ve never seen before, we dare to confront the common. Be ready to witness how great our minds emerged, driven by the power of intelligence, mighty creative ideas, stamina of overkill-strategies - turning big thinking into powerful actions.<br>#creativegeekFICENT</div>
     </div>
   </div>
   <div class="ourspecialities award">
@@ -178,7 +178,7 @@
               <div id="w-node-0652924084b1-ed2cf37e" class="work-image"></div>
               <div id="w-node-0652924084b2-ed2cf37e" class="work-testi">
                 <div class="testi-bg">
-                  <p class="testimoni"> &quot;We now have successfully implemented a revolutionary marketing strategy for the Ministry of Tourism, Republic of Indonesia, which wouldn&#x27;t have been possible if not for our teamwork with Magnus. They have helped us by providing insights from the marketing data, examining comprehensive data analysis, as well as composing a digital marketing strategy for Indonesia Tourism. Our collaboration was really driving us closer and closer to our great goal”<br><br>Novendi Makalam, Director International Tourism Marketing Strategy &amp; Communication, Ministry of Tourism Indonesia 2017<br> </p>
+                  <p class="testimoni"> &quot;We now have successfully implemented a revolutionary marketing strategy for the Ministry of Tourism, Republic of Indonesia, which wouldn&#x27;t have been possible if not for our teamwork with creativegeek. They have helped us by providing insights from the marketing data, examining comprehensive data analysis, as well as composing a digital marketing strategy for Indonesia Tourism. Our collaboration was really driving us closer and closer to our great goal”<br><br>Novendi Makalam, Director International Tourism Marketing Strategy &amp; Communication, Ministry of Tourism Indonesia 2017<br> </p>
                 </div>
               </div>
             </div>
@@ -199,7 +199,7 @@
               <div id="w-node-b850eaf0158d-ed2cf37e" class="work-image"></div>
               <div id="w-node-eb31aed2bcd6-ed2cf37e" class="work-testi mbl">
                 <div class="testi-bg">
-                  <p class="testimoni"> &quot;We now have successfully implemented a revolutionary marketing strategy for the Ministry of Tourism, Republic of Indonesia, which wouldn&#x27;t have been possible if not for our teamwork with Magnus. They have helped us by providing insights from the marketing data, examining comprehensive data analysis, as well as composing a digital marketing strategy for Indonesia Tourism”<br><br>Novendi Makalam, Director International Tourism Marketing Strategy &amp; Communication, Ministry of Tourism Indonesia 2017<br> </p>
+                  <p class="testimoni"> &quot;We now have successfully implemented a revolutionary marketing strategy for the Ministry of Tourism, Republic of Indonesia, which wouldn&#x27;t have been possible if not for our teamwork with creativegeek. They have helped us by providing insights from the marketing data, examining comprehensive data analysis, as well as composing a digital marketing strategy for Indonesia Tourism”<br><br>Novendi Makalam, Director International Tourism Marketing Strategy &amp; Communication, Ministry of Tourism Indonesia 2017<br> </p>
                 </div>
               </div>
             </div>
@@ -229,7 +229,7 @@
               <div id="w-node-6844f436fbea-ed2cf37e" class="work-image _4"></div>
               <div id="w-node-6844f436fbeb-ed2cf37e" class="work-testi mbl">
                 <div class="testi-bg _4">
-                  <p class="testimoni"> “The solutions given by Magnus have benefited us to attain optimizationfor our paid media by using cross-channel segment between ourcompany and the DMP partners that are exclusively owned by Adobe.With the advertising recommendations and integrated data, our onlinemarketing activities has leveled up from increasing branding awarenessto acquiring leads. Compared with last year’s performance, one of ourproducts had succeeded to increase the leads up to 400%. That hasdefinitely rewarded us with success.”<br><br>Ivy Widjaja, Division Head, Customer Segmentation &amp; Marketing, Permata Bank </p>
+                  <p class="testimoni"> “The solutions given by creativegeek have benefited us to attain optimizationfor our paid media by using cross-channel segment between ourcompany and the DMP partners that are exclusively owned by Adobe.With the advertising recommendations and integrated data, our onlinemarketing activities has leveled up from increasing branding awarenessto acquiring leads. Compared with last year’s performance, one of ourproducts had succeeded to increase the leads up to 400%. That hasdefinitely rewarded us with success.”<br><br>Ivy Widjaja, Division Head, Customer Segmentation &amp; Marketing, Permata Bank </p>
                 </div>
               </div>
             </div>
@@ -277,35 +277,17 @@
   </div>
   <div class="footer">
     <div class="container footer">
-      <div class="magnus">
+      <div class="creativegeek">
         <a href="#" class="link-block-4 foot w-inline-block">
           <div class="div-block-5"><img src="images/Layer-2.svg" alt="" class="image-3 brandfooter"></div>
         </a>
-        <div class="sosmed-wrapper"><a href="https://www.instagram.com/magnusdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-magnus-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
+        <div class="sosmed-wrapper"><a href="https://www.instagram.com/creativegeekdigitalindonesia/" class="sosmedlogo _2 w-inline-block"></a><a href="https://www.linkedin.com/company/pt.-creativegeek-digital-indonesia" class="sosmedlogo _5 w-inline-block"></a></div>
       </div>
     </div>
   </div>
 
   <script src="js/jquery-3.1.0.js"></script>
 <script src="js/jquery-validation.js"></script>
-  <script type='application/ld+json'>
-    {
-      "@context" : "http://schema.org",
-      "@type" : "Organization",
-      "Name" : "Magnus Digital Indonesia",
-      "url" : "https://www.magnusdigital.co.id",
-    "contactPoint" : [{
-        "@type" : "ContactPoint",
-        "telephone" : "+62 (21) 579-03-999",
-        "contactType" : "customer service"
-      }],
-      "sameAs" : [
-        "https://www.linkedin.com/company/pt.-magnus-digital-indonesia",
-        "https://www.instagram.com/magnusdigitalindonesia/"
-      ],
-      "logo": "http://www.magnusdigital.co.id/images/favicon-transparent32x32.png"
-    }
-    </script>
     
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5e6afab640b2ff52a52cf37d" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js" type="text/javascript"></script>
@@ -381,7 +363,7 @@
       }
 
   </script>
-  <script src="js/magnus.js" type="text/javascript"></script>
+  <script src="js/creativegeek.js" type="text/javascript"></script>
   
 </body>
 
